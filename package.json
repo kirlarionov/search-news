@@ -2,6 +2,7 @@
    "name": "search-news-app",
    "version": "0.1.0",
    "private": true,
+   "homepage": "https://kirlarionov.github.io/search-news/",
    "dependencies": {
       "@mui/icons-material": "^5.11.0",
       "@mui/material": "^5.11.3",
