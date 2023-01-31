@@ -73,7 +73,7 @@ const Header = () => {
    const navigate = useNavigate()
 
    const onClickLogo = () => {
-      navigate("/")
+      navigate("/search-news/")
       dispatch(getCategoryNews("general"))
    }
 

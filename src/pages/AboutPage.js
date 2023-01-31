@@ -44,7 +44,7 @@ const AboutPage = () => {
    const navigate = useNavigate()
 
    const onClickToMain = () => {
-      navigate("/?category=general")
+      navigate("/search-news/?category=general")
       dispatch(getCategoryNews("general"))
    }
 

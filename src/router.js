@@ -6,8 +6,8 @@ import Layout from "./Layout"
 import NotFoundPage from "./pages/NotFoundPage"
 
 const ROUTES = {
-   MainPage: "/",
-   AboutPage: "/about",
+   MainPage: "/search-news/",
+   AboutPage: "/search-news/about",
 }
 
 export const router = createBrowserRouter([

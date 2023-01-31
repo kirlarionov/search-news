@@ -20,7 +20,7 @@ const NotFoundPage = () => {
          <Typography variant="h3">Not Found Page!</Typography>
          <p>{error.statusText}</p>
          <div>
-            <NavLink to="/">
+            <NavLink to="/search-news/">
                <Button variant="contained">to Main Page</Button>
             </NavLink>
          </div>
