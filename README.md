@@ -1,10 +1,11 @@
 <a id="anchor"></a>
 <p align="center">
-      <img src="./src/assets/images/weather-app.jpg" width="500">
+      <img src="./src/assets/images/news.jpg" width="500">
 </p>
 
 <h1 align="center">
-      Search News
+      SEARCH NEWS
+      <img src="./src/assets/news-icon.png">
 </h1>
 
 ## About
