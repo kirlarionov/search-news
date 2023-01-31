@@ -13,6 +13,10 @@ This application is created to search for news by your
 request, and also shows the main news of Ukraine and such
 categories as: sports, business, health, technology, science and entertainment.
 
+**I deployed the project to GitPages, but there are restrictions with Api: 
+"Requests from the browser are not allowed on the Developer plan, except from localhost." &#128528;
+Link to view this App ➟ https://kirlarionov.github.io/search-news/
+
 ## Technology stack
 <p>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
