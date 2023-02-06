@@ -30,7 +30,9 @@ const SearchHistoryVariant = ({ variant }) => {
    const { searchHistory } = useSelector((state) => state.searchNews)
    const dispatch = useDispatch()
 
-   const onClickHistoryVariant = () => {
+   const onClickHistoryVariant = (e) => {
+      e.stopPropagation()
+
       dispatch(setSearchQuery(variant))
       dispatch(getSearchNews(variant))
       dispatch(setShowSearchHistory(false))
